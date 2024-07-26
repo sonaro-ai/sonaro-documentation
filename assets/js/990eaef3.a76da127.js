@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksonaro_documentation=self.webpackChunksonaro_documentation||[]).push([[5639],{3161:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/sonaro-documentation/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
